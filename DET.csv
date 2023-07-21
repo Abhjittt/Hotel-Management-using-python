@@ -1,0 +1,13 @@
+CUSTID,ROOM NO.,TYPE,CUSTOMER NAME,MOBILE NUM,ADDRESS,CHECK IN,CHECK OUT,DAYS,ROOM COST,REST COST,TOTAL,TAX,TOTAL(TAX),EMAIL,STATUS,ROOM TYPE,STARS
+3.0,21.0,,Ashwin,9805867448.0,"184/5, mylapore",02-01-2021,06-01-2021,4.0,26000.0,,,,,abhjitprasanna@gmail.com,cancel,DELUXE LAKE VIEW,4.0
+2.0,21.0,,Abhjit,9858678349.0,"256/7 , Bombay",27-02-2021,03-03-2021,4.0,6500.0,,,,,abhjitprasanna@gmail.com,out,DELUXE LAKE VIEW,2.0
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+8.0,1.0,,abh,9884830104,alak,2023/7/21,2023/7/23,2.0,11000.0,,,,,abhjitprasanna@gmail.com,in,DELUXE CITY VIEW,
